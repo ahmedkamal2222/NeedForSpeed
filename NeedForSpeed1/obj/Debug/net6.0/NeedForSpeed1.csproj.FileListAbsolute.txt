@@ -1,0 +1,14 @@
+D:\NeedForSpeed1\NeedForSpeed1\bin\Debug\net6.0\NeedForSpeed1.exe
+D:\NeedForSpeed1\NeedForSpeed1\bin\Debug\net6.0\NeedForSpeed1.deps.json
+D:\NeedForSpeed1\NeedForSpeed1\bin\Debug\net6.0\NeedForSpeed1.runtimeconfig.json
+D:\NeedForSpeed1\NeedForSpeed1\bin\Debug\net6.0\NeedForSpeed1.dll
+D:\NeedForSpeed1\NeedForSpeed1\bin\Debug\net6.0\NeedForSpeed1.pdb
+D:\NeedForSpeed1\NeedForSpeed1\obj\Debug\net6.0\NeedForSpeed1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NeedForSpeed1\NeedForSpeed1\obj\Debug\net6.0\NeedForSpeed1.AssemblyInfoInputs.cache
+D:\NeedForSpeed1\NeedForSpeed1\obj\Debug\net6.0\NeedForSpeed1.AssemblyInfo.cs
+D:\NeedForSpeed1\NeedForSpeed1\obj\Debug\net6.0\NeedForSpeed1.csproj.CoreCompileInputs.cache
+D:\NeedForSpeed1\NeedForSpeed1\obj\Debug\net6.0\NeedForSpeed1.dll
+D:\NeedForSpeed1\NeedForSpeed1\obj\Debug\net6.0\refint\NeedForSpeed1.dll
+D:\NeedForSpeed1\NeedForSpeed1\obj\Debug\net6.0\NeedForSpeed1.pdb
+D:\NeedForSpeed1\NeedForSpeed1\obj\Debug\net6.0\NeedForSpeed1.genruntimeconfig.cache
+D:\NeedForSpeed1\NeedForSpeed1\obj\Debug\net6.0\ref\NeedForSpeed1.dll

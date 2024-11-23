@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NeedForSpeed1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\controller\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\controller\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\controller\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\controller\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\races\\casualrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\races\\casualrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\races\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\races\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\cars\\performancecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\cars\\performancecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\cars\\showcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\cars\\showcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\races\\circuitrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\races\\circuitrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\races\\driftrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\races\\driftrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\races\\dragrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\races\\dragrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\races\\timelimitrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\races\\timelimitrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|d:\\needforspeed1\\needforspeed1\\models\\garage\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9262EF-0AB0-42A5-B0C1-9659BAE551C3}|NeedForSpeed1\\NeedForSpeed1.csproj|solutionrelative:needforspeed1\\models\\garage\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Race.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\Race.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Races\\Race.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\Race.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Races\\Race.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:45:15.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Cars\\Car.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Cars\\Car.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Cars\\Car.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Cars\\Car.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:30:40.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PerformanceCar.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Cars\\PerformanceCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Cars\\PerformanceCar.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Cars\\PerformanceCar.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Cars\\PerformanceCar.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:36:08.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Program.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Program.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Program.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:28:43.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Controller\\Engine.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Controller\\Engine.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Controller\\Engine.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Controller\\Engine.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:33:39.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeLimitRace.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\TimeLimitRace.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Races\\TimeLimitRace.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\TimeLimitRace.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Races\\TimeLimitRace.cs",
+              "ViewState": "AQIAAB4AAAAAMjMzMzMwwCEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:18:23.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowCar.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Cars\\ShowCar.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Cars\\ShowCar.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Cars\\ShowCar.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Cars\\ShowCar.cs",
+              "ViewState": "AQIAAAkAAACgZGZmZmYowBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:43:55.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Controller\\CarManager.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Controller\\CarManager.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Controller\\CarManager.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Controller\\CarManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAEwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:51:28.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CasualRace.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\CasualRace.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Races\\CasualRace.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\CasualRace.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Races\\CasualRace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:47:17.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DragRace.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\DragRace.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Races\\DragRace.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\DragRace.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Races\\DragRace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:47:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DriftRace.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\DriftRace.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Races\\DriftRace.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\DriftRace.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Races\\DriftRace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:47:51.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CircuitRace.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\CircuitRace.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Races\\CircuitRace.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Races\\CircuitRace.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Races\\CircuitRace.cs",
+              "ViewState": "AQIAABsAAADAl5mZmZktwD0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:02:16.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Garage\\Garage.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed1\\Models\\Garage\\Garage.cs",
+              "ToolTip": "D:\\NeedForSpeed1\\NeedForSpeed1\\Models\\Garage\\Garage.cs",
+              "RelativeToolTip": "NeedForSpeed1\\Models\\Garage\\Garage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:48:42.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
